@@ -3,7 +3,7 @@
 ![](https://art.ngfiles.com/images/1537000/1537588_wildleoknight_pixel-pop-cat.gif?f1607540593)
 
 
-Welcome to my Github! Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
+Welcome to my Github. Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
 
 <!--
 **korolodf/korolodf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
