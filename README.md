@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👨‍💻
+Welcome to my Github! Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
 
 <!--
 **korolodf/korolodf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
