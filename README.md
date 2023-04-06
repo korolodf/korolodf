@@ -1,6 +1,7 @@
 ### Hello 👨‍💻
 
-https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif 
+
+![Alt Text]([https://media.giphy.com/media/l1J9uvaWYWkNLjiz6/giphy.gif?cid=ecf05e47uv5srhn1espbjqfg8rmunq05m4cihzhaeptoi2aw&rid=giphy.gif&ct=g](https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif ))
 
 Welcome to my Github! Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
 
