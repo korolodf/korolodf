@@ -1,7 +1,7 @@
 ### Hello 👨‍💻
 
 @@ -1,4 +1,4 @@
-![Alt Text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6274593-Daily-pixel-wave-loop&psig=AOvVaw2CMBKYHJI7b6omu4jYnvtR&ust=1680880962996000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjU69fHlf4CFQAAAAAdAAAAABAw](https://media.giphy.com/media/l1J9uvaWYWkNLjiz6/giphy.gif?cid=ecf05e47uv5srhn1espbjqfg8rmunq05m4cihzhaeptoi2aw&rid=giphy.gif&ct=g](https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif))
+![Alt Text]([[https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6274593-Daily-pixel-wave-loop&psig=AOvVaw2CMBKYHJI7b6omu4jYnvtR&ust=1680880962996000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjU69fHlf4CFQAAAAAdAAAAABAw](https://media.giphy.com/media/l1J9uvaWYWkNLjiz6/giphy.gif?cid=ecf05e47uv5srhn1espbjqfg8rmunq05m4cihzhaeptoi2aw&rid=giphy.gif&ct=g](https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif](https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif)))
 
 
 Welcome to my Github! Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
