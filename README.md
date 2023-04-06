@@ -1,4 +1,7 @@
 ### Hello 👨‍💻
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcat-waving-gifs&psig=AOvVaw2TD1-T_gwM845ZqtbCO-Ws&ust=1680881217173000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIiFn9DIlf4CFQAAAAAdAAAAABBI
+
 Welcome to my Github! Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
 
 <!--
