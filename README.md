@@ -1,6 +1,7 @@
 ### Hello 👨‍💻
 
-![](https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif)
+![](https://art.ngfiles.com/images/1537000/1537588_wildleoknight_pixel-pop-cat.gif?f1607540593)
+
 
 Welcome to my Github! Here, you will find a collection of my academic and personal projects, mostly related to the development of my skills in data science! 
 
@@ -17,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://media.tenor.com/609ISt84COwAAAAM/funny-animals-cats.gif)
 -->
